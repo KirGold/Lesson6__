@@ -1,0 +1,16 @@
+body{
+    background-color:rgb(15, 14, 14);
+    color: aliceblue;
+}
+h1{
+    color: chartreuse;
+}
+span{
+    color: rgb(251, 255, 0);
+}
+a{
+    color: crimson;
+}
+h2{
+    color: blueviolet;
+}
